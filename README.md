@@ -1,4 +1,7 @@
-## Hi there 👋
+# Bruno Bevilacqua
+**`(aka Bericobski)`**
+
+I'm a fullstack developer. All my coding projects are built from the ground up. From designing, developing, testing and taking feedback. I always strive for the most efficient way to code and the proper architecture/framework/method to do so
 
 <!--
 **Bericobski/Bericobski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
